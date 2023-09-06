@@ -3,5 +3,6 @@ key = 'Testign'
 plrs = {
   'billybob',
   'joebob',
-  'stinkyjoe'
+  'stinkyjoe',
+  'notauser0062'
 }
