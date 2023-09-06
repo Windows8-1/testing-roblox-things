@@ -1,4 +1,4 @@
-key = 'Testign'
+key = 'Testing'
 
 plrs = {
   'billybob',
