@@ -4,5 +4,5 @@ plrs = {
   'billybob',
   'joebob',
   'stinkyjoe',
-  'notauserrrrr0062'
+  'nilly'
 }
